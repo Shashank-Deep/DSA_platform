@@ -1,0 +1,6 @@
+.boxers{
+    border: 2px solid black;
+    margin: 7px;
+    padding-top: 15px;
+    width: 35vh !important;
+}
